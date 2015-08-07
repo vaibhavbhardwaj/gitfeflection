@@ -3,3 +3,10 @@ git init
 git status
 
 git add
+
+staging area
+
+working directory
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
