@@ -15,3 +15,13 @@ How is the staging area different from the working directory and the repository?
 git branch
 
 git --graph --oneline branchname
+
+git show
+
+git branch -d
+
+git show "commit id"
+
+git merge
+
+git log -n "number"
