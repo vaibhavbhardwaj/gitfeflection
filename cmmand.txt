@@ -1,0 +1,13 @@
+git diff
+
+git checkout
+
+git commit
+
+git log
+
+git init
+
+git staus
+
+git add
